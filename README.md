@@ -5,7 +5,7 @@ Beautify your Termux
 apt install git -y
 cd $HOME
 git clone https://github.com/Frazix12/F-shell.git
-cd cd F-shell
+cd F-shell
 chmod +x setup.sh
 ./setup.sh
 ```
